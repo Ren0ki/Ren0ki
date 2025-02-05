@@ -1,11 +1,10 @@
 - 🌸 Hi, I’m Ren Lagman!
 - 🌷 Pronouns: She/Her
-- 🍀 Studying Computer Graphics Technology at Purdue University
+- 🍀 Studying CGT Data Visualization at Purdue University
 - 🌹 Currently Learning:
-    - CGT 116 - Geometric Modeling (zBrush)
-    - CGT 118 - Imaging Technology (Illustrator)
-    - CGT 241 - Animation Foundations (Maya)
-    - CGT 270 - Data Visualization (P5JS)
+    - CGT 435 - VR/AR Development (Unity)
+    - CGT 147 - VFX Productioin (Houdini)
+    - CGT 390 - Interactive Web Programming (Visual Studio Code)
 
 <!---
 Ren0ki/Ren0ki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
