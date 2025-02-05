@@ -3,7 +3,7 @@
 - 🍀 Studying CGT Data Visualization at Purdue University
 - 🌹 Currently Learning:
     - CGT 435 - VR/AR Development (Unity)
-    - CGT 147 - VFX Productioin (Houdini)
+    - CGT 147 - VFX Production (Houdini)
     - CGT 390 - Interactive Web Programming (Visual Studio Code)
 
 <!---
