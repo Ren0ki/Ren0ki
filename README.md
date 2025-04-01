@@ -1,5 +1,5 @@
 - 🦈 Hi, I’m Ren Lagman!
-- 🐳 Pronouns: She/Her
+- 🐳 She/Her
 - 🐋 Studying CGT Data Visualization at Purdue University
 - 🪼 Currently Learning:
     - CGT 435 - VR/AR Development (Unity)
