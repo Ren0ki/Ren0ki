@@ -2,9 +2,9 @@
 - 🐳 She/Her
 - 🐋 Studying CGT Data Visualization at Purdue University
 - 🪼 Currently Learning:
-    - CGT 435 - VR/AR Development (Unity)
-    - CGT 147 - VFX Production (Houdini)
-    - CGT 390 - Interactive Web Programming (Visual Studio Code)
+    - CGT 377 - Scientific Visualization
+    - CGT 470 - Advanced Data Visualization
+    - CGT 41101 - Computer Graphics Project Development
 
 <!---
 Ren0ki/Ren0ki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
