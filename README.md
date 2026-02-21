@@ -2,9 +2,9 @@
 - 🐳 She/Her
 - 🐋 Studying CGT Data Visualization at Purdue University
 - 🪼 Currently Learning:
-    - CGT 377 - Scientific Visualization
-    - CGT 470 - Advanced Data Visualization
-    - CGT 41101 - Computer Graphics Project Development
+    - CGT 370 - Interactive Programming
+    - CNIT 255 - Object-Oriented Programming
+    - CGT 412 - Computer Graphics Project Development
 
 <!---
 Ren0ki/Ren0ki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
