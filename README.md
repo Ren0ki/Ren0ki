@@ -1,10 +1,4 @@
-- 🦈 Hi, I’m Ren Lagman!
-- 🐳 She/Her
-- 🐋 Studying CGT Data Visualization at Purdue University
-- 🪼 Currently Learning:
-    - CGT 370 - Interactive Programming
-    - CNIT 255 - Object-Oriented Programming
-    - CGT 412 - Computer Graphics Project Development
+Currently studying Computer Graphics Technology at Purdue University, projects in graphics programming and rendering. 
 
 <!---
 Ren0ki/Ren0ki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
